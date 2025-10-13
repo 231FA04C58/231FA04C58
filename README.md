@@ -31,8 +31,6 @@
 
 - **Email**: [gutupalliharika@mail.com](mailto:gutupalliharika@mail.com)
 - **LinkedIn**: [linkedin.com/in/harika-guntupalli-81b17b32a](https://www.linkedin.com/in/harika-guntupalli-81b17b32a/)
-<!-- You can add more social links below if needed -->
-<!-- - **Portfolio**: [yourportfolio.com](https://yourportfolio.com) -->
 
 ---
 
@@ -40,6 +38,9 @@
 
 <a href="https://www.linkedin.com/in/harika-guntupalli-81b17b32a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.codechef.com/users/harika1712">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
 </a>
 <!-- Add more badges (Twitter, Instagram, etc.) as needed -->
 
