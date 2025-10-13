@@ -1,35 +1,28 @@
-# Hi there 👋
+# Hi, I'm Guntupalli Harika 👋
 
-I'm [Guntupalli Harika]!  
-Welcome to my GitHub profile.
+### ⚡ AI Systems Developer | B.Tech CSE | India
 
-![Profile Views](https://komarev.com/ghpvc/?username=231FA04C58&color=blue)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;I+love+learning+new+things.;Let's+build+something+awesome+🚀)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: [gutupalliharika@mail.com]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔧 Technical Profile
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=231FA04C58&show_icons=true&hide_title=true)
+- **Specializing in**: Artificial Intelligence and Neural Networks
+- **Languages**: Python, Java, C++
+- **Tools & Technologies**: TensorFlow, PyTorch, OpenCV, Git
+- **Current Focus**: Developing high-performance computer vision systems
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=231FA04C58&theme=react-dark&area=true)
+## 📈 GitHub Stats
 
-<!-- Animated waving hand gif -->
-<img src="https://raw.githubusercontent.com/231FA04C58/231FA04C58/main/assets/wave.gif" alt="waving hand" width="40" height="40" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
 
-<!-- Typing animation with SVG -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&random=false&width=435&lines=Welcome+to+my+GitHub!;I+love+learning+new+things.;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+## 📫 How to Reach Me
 
-<!-- Snake animation for GitHub contributions -->
-![Snake animation](https://github.com/231FA04C58/231FA04C58/blob/output/github-contribution-grid-snake.svg)
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 
-<!-- Scrolling marquee text -->
-<marquee behavior="scroll" direction="left" scrollamount="10">
-  🚀 Welcome to my GitHub Profile! Let's build something awesome! 🚀
-</marquee>
+## 🧠 Fun Fact
 
-<!-- Dynamic Quote Badge -->
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+I enjoy solving complex problems and contributing to open-source projects. Let's collaborate!
+
+![Snake Animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
