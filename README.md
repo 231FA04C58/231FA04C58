@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I'm [Your Na]!  
+I'm [Guntupalli Harika]!  
 Welcome to my GitHub profile.
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: [your email/website]
+- 📫 How to reach me: [gutupalliharika@mail.com]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
