@@ -2,15 +2,7 @@
 
 ### ⚡ AI Systems Developer | B.Tech CSE | India
 
-<!-- Tech circuit animation inspired by https://github.com/harshith1476 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshith1476/harshith1476/main/assets/header.svg" alt="Tech circuit animation" width="100%" />
-</p>
 
-<!-- Typing animation with SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;I+love+learning+new+things.;Let's+build+something+awesome+🚀" alt="Typing SVG" />
-</p>
 
 ## 🔧 Technical Profile
 
@@ -50,5 +42,4 @@
 
 I enjoy solving complex problems and contributing to open-source projects. Let's collaborate!
 
-<!-- Snake animation for GitHub contributions -->
-![Snake Animation](https://github.com/231FA04C58/231FA04C58/blob/output/github-contribution-grid-snake.svg)
+
