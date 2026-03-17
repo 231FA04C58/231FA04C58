@@ -40,3 +40,7 @@
 ## 🧠 Fun Fact
 
 I enjoy solving complex problems and contributing to open-source projects. Let's collaborate!
+
+## 💬 Tagline  
+
+✨ *Building intelligent systems that people actually enjoy using.*
