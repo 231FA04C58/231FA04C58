@@ -4,15 +4,14 @@
 
 
 
-## 🔧 Technical Profile
----
-- 🎓 B.Tech CSE student from India
--💡 I build AI-powered applications with real-world impact
--🎨 Passionate about creating clean, user-friendly interfaces
--🌐 Interested in full-stack web development + intelligent systems
+## 🚀 About Me  
+
+🎓 B.Tech CSE student from India  
+💡 I build **AI-powered applications with real-world impact**  
+🎨 Passionate about creating **clean, user-friendly interfaces**  
+🌐 Interested in **full-stack web development + intelligent systems**
 
 ---
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=231FA04C58&show_icons=true&hide_title=true)
