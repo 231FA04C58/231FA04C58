@@ -5,7 +5,7 @@
 
 
 ## 🔧 Technical Profile
-
+---
 - 🎓 B.Tech CSE student from India
 -💡 I build AI-powered applications with real-world impact
 -🎨 Passionate about creating clean, user-friendly interfaces
