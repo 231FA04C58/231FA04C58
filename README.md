@@ -6,10 +6,10 @@
 
 ## 🔧 Technical Profile
 
-- **Specializing in**: Artificial Intelligence and Neural Networks
-- **Languages**: Python, Java, C++
-- **Tools & Technologies**: TensorFlow, PyTorch, OpenCV, Git
-- **Current Focus**: Developing high-performance computer vision systems
+- 🎓 B.Tech CSE student from India
+💡 I build AI-powered applications with real-world impact
+🎨 Passionate about creating clean, user-friendly interfaces
+🌐 Interested in full-stack web development + intelligent systems
 
 ---
 
